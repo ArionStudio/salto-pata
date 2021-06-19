@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #7e7e7e;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+canvas {
+  background-color: #fff;
+}
+
+@keyframes move-body {
+  0% {
+    transform: rotate(0deg);
+    transform-origin: center;
+  }
+  100% {
+    transform: rotate(360deg);
+    transform-origin: center;
+  }
+}
+
+@keyframes move-help {
+  0% {
+    transform: rotate(0deg);
+    transform-origin: center;
+  }
+  100% {
+    transform: rotate(-360deg);
+    transform-origin: center;
+  }
+}
+
+#mat #pat {
+  width: 100%;
+  height: 100%;
+  stroke: #fff;
+}
+
+#mat #pat #at {
+  transition: all 0s ease;
+  animation: move-help 8s infinite;
+}
+
+#mat #help {
+  transition: all 0s ease;
+  animation: move-body 4s infinite;
+}
+/*# sourceMappingURL=main.css.map */

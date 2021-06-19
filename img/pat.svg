@@ -1,0 +1,16 @@
+<svg width="908" height="628" viewBox="0 0 908 628" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="pat">
+<circle id="hed" cx="487.5" cy="151.5" r="124" />
+<line id="body" x1="487.5" y1="276.005" x2="485.455" y2="502.004" />
+<line id="rg-lg" x1="552.59" y1="598.286" x2="485.59" y2="502.286" />
+<line id="lf-leg" x1="419.589" y1="596.715" x2="485.589" y2="501.715" />
+<line id="lf-arm" x1="488.18" y1="275.466" x2="374.18" y2="319.466" />
+<line id="rg-arm" x1="487.188" y1="275.537" x2="605.188" y2="323.537" />
+<g id="help">
+<circle id="Ellipse 1" cx="897.5" cy="10.5" r="10.5" fill="white"/>
+<circle id="Ellipse 2" cx="897.5" cy="617.5" r="10.5" fill="white"/>
+<circle id="Ellipse 4" cx="10.5" cy="617.5" r="10.5" fill="white"/>
+<circle id="Ellipse 3" cx="10.5" cy="10.5" r="10.5" fill="white"/>
+</g>
+</g>
+</svg>
