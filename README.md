@@ -1,2 +1,2 @@
 # salto-pata
-Made for fun
+Prosta animacja
